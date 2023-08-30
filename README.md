@@ -124,4 +124,15 @@ _______________________________________________________________________________
   <dd>This is another definition of the second term.</dd>
 </dl>
 __________________________________________________________________________________
-
+```mermaid
+  flowchart TD
+    A[Work in bar] -->|Get money| B(Go to different bar)
+    B --> C{What should i buy?}
+    C -->|One| D[Cocktail]
+    C -->|Two| E[Beer]
+    C -->|Three| F[Cider]
+    D --> |No money left|G
+    E --> |No money left|G
+    F --> |No money left|G[I need money]
+    G --> |Go to work|A
+```
