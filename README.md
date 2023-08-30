@@ -19,6 +19,9 @@ _this is also italic_
 **this is bold**
 __this is also bold__
 
+## Adding Links (ID: 4):
+[this is the link] (https://www.linkedin.com/in/viktor-ceder-64a3b91a4/)
+
 ## Superscript and Subsctipt (ID: 15):
 <br>Hej<sup>superscript</sup>
 <br>Hej<sub>subscript</sub>
