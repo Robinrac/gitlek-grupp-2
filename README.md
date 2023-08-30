@@ -135,5 +135,5 @@ ________________________________________________________________________________
     D --> |No money left|G
     E --> |No money left|G
     F --> |No money left|G[I need money]
-    G --> |Go to work|A
+    G --> |Go to club|A
 ```
