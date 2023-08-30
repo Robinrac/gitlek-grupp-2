@@ -1,7 +1,6 @@
 
 # Header 1
 
-<<<<<<< HEAD
 ##Ordered and unordered lists:
 
 ###Ordered list:
@@ -15,6 +14,5 @@
 * Item 3
 
 ## Superscript and Subsctipt
-<br><sup>superscript</sup>
-<br><sub>subscript</sub>
->>>>>>> refs/remotes/origin/main
+<br>Hej<sup>superscript</sup>
+<br>Hej<sub>subscript</sub>
