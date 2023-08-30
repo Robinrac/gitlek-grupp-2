@@ -21,7 +21,6 @@ _this is also italic_
 __this is also bold__
 
 ## Adding Links (ID: 4):
-This is the link[https://www.linkedin.com/in/viktor-ceder-64a3b91a4/]
 [Link text](https://www.linkedin.com/in/viktor-ceder-64a3b91a4/)
 
 
