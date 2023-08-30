@@ -23,6 +23,9 @@ __this is also bold__
 ## Adding Links (ID: 4):
 [Link text](https://www.linkedin.com/in/viktor-ceder-64a3b91a4/)
 
+## Adding Images (ID: 5):
+![Alt text](https://media.licdn.com/dms/image/D4D03AQF-bl9Sr_hcug/profile-displayphoto-shrink_800_800/0/1681631538616?e=2147483647&v=beta&t=abJq04sqLr3xHsYkeuWZEaH98kGQG8FgzOt-kRFymCc "an image of viktor ceder")
+
 
 ## Superscript and Subsctipt (ID: 15):
 <br>Hej<sup>superscript</sup>
