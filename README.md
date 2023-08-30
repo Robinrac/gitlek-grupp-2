@@ -52,3 +52,11 @@ Något intresant
 
 ## Inline Link
 [This is an external link to genome.gov](https://www.genome.gov/)
+
+## Defenition List
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
