@@ -47,6 +47,11 @@ ______________________________________________________________________________
 `This is inline code` But this isnt
 
 _____________________________________________________________________________
+## Adding strikethrough (ID: 12) 
+~~ ~~This was a mistake
+
+
+____________________________________________________________________________
 ## Superscript and Subsctipt (ID: 15):
 <br>Hej<sup>superscript</sup>
 <br>Hej<sub>subscript</sub>
