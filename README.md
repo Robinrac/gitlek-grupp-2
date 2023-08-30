@@ -31,7 +31,7 @@ _____________________________________________________________________________
 ## Blockquotes (ID 6):
 > "This is in a blockquote!!"
 _____________________________________________________________________________
-## Code blocks
+## Code blocks (ID 7):
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
@@ -66,10 +66,10 @@ ______________________________________________________________________________
 
 
 _______________________________________________________________________________
-## Inline Link
+## Inline Link (ID: 19):
 [This is an external link to genome.gov](https://www.genome.gov/)
 
-## Defenition List
+## Defenition List (ID: 20):
 <dl>
   <dt>First Term</dt>
   <dd>This is the definition of the first term.</dd>
