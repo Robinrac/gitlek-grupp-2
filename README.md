@@ -124,6 +124,7 @@ _______________________________________________________________________________
   <dd>This is another definition of the second term.</dd>
 </dl>
 __________________________________________________________________________________
+
 ```mermaid
   flowchart TD
     A[Work in bar] -->|Get money| B(Go to different bar)
