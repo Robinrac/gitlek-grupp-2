@@ -23,13 +23,18 @@
 ##### Header 5 
 ###### Header 6
 
-## Orderd list continuation
+## Orderd list continuation (ID: 16):
 
 1. item 1
 2. item 2
-
 ```
 Något intresant
 ```
-
 3. item 3
+
+## Creating Checkbox Lists(ID: 17)
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
