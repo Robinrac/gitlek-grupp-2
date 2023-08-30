@@ -13,6 +13,12 @@
 * Item 2
 * Item 3
 
+## Emphasis (ID: 3):
+*this is italic text*
+_this is also italic_
+**this is bold**
+__this is also bold__
+
 ## Superscript and Subsctipt (ID: 15):
 <br>Hej<sup>superscript</sup>
 <br>Hej<sub>subscript</sub>
