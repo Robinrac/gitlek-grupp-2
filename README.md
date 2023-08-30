@@ -49,4 +49,5 @@ Något intresant
 - [ ] Update the website
 - [ ] Contact the media
 
-
+## Inline Link
+[This is an external link to genome.gov](https://www.genome.gov/)
