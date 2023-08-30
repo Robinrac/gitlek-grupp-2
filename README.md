@@ -38,7 +38,7 @@ _____________________________________________________________________________
 | Paragraph   | Text        |
 ______________________________________________________________________________
 
-## Creating links within a doucment ID:9
+## Creating links within a doucment (ID:9)
 
 click [Header1)](#Header-1)
 
