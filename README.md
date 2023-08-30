@@ -40,7 +40,7 @@ ______________________________________________________________________________
 
 ## Creating links within a doucment ID:9
 
-click [Header 1 (ID: 1)](#Header-1-(ID:-1)
+click [Header1)](#Header-1)
 
 _____________________________________________________________________________
 ## Superscript and Subsctipt (ID: 15):
