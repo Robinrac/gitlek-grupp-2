@@ -61,11 +61,20 @@ _____________________________________________________________________________
 ____________________________________________________________________________
 ## Creating nested lists 
 
-1. First list item  
-2. second list item 
-    3. First nested list item 
-    4. Sedond nested list item
-
+1. First level item
+   - Nested item 1
+   - Nested item 2
+      1. Sub-nested item A
+      2. Sub-nested item B
+   - Nested item 3
+2. Second level item
+   1. Nested item A
+      - Sub-nested item X
+      - Sub-nested item Y
+   2. Nested item B
+3. Third level item
+   - Nested item P
+   - Nested item Q
 
 ____________________________________________________________________________
 ## Adding footnotes (ID: 14)
