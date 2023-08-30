@@ -59,7 +59,14 @@ _____________________________________________________________________________
 ## Adding strikethrough (ID: 12) 
 ~~This was a mistake~~ 
 ____________________________________________________________________________
-## Creating nested lists 
+## Table 
+
+| This        | is a        | Table         |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+____________________________________________________________________________
+## Creating nested lists (ID: 13) 
 
 1. First level item
    - Nested item 1
